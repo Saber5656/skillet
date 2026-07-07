@@ -4,6 +4,11 @@ Status: Approved plan derived from docs/DESIGN.md (2026-07-07)
 Issue drafts: `docs/issues/NN-*.md` (one file per issue; GitHub Issues are
 derived artifacts of these files).
 
+GitHub Issues [#1–#40](https://github.com/Saber5656/skillet/issues) were
+created 2026-07-07 and correspond 1:1 to draft files `01-*.md` … `40-*.md`
+(issue number == file number). If drafts and GitHub Issues ever disagree, the
+draft files win; update them first, then sync the issue.
+
 ## v1 completion statement
 
 v1 is complete when all 40 issues below are implemented and validated. At that
